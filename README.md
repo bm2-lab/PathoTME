@@ -1,6 +1,6 @@
 ## PathoTME
 
-## Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction (*MICCAI 2024*)
+## Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction (*MICCAI 2024 oral*)
 
 [Arxiv](https://doi.org/10.48550/arXiv.2406.06517)
 
@@ -59,3 +59,7 @@ Please use below to cite this [paper](https://doi.org/10.48550/arXiv.2406.06517)
     primaryClass={cs.CV}
 }
 ```
+
+### Contact
+
+Please submit an issue or send an email to mengflz@tongji.edu.cn
